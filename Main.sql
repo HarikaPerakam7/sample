@@ -1,2 +1,1 @@
-qwertyu
-sdfghjkS
+show databases;
